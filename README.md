@@ -16,14 +16,11 @@ Aprenda a construir do zero uma API REST com Spring Boot para cadastro e gerenci
 
 # Melhorias implementadas
 
-- Documentei a lógica no javascript
-- Coloquei som quando o usuário perde
-- Mudei o background
-- Coloquei título
+- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-# Como jogar
+# Detalhes da aula
 
-Para iniciar o jogo basta executar o arquivo index.html em um navegador de internet a partir de uma cópia do repositório em um diretório local.
+- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 # Exemplos de telas
 
